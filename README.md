@@ -44,5 +44,9 @@ Para instalarlo dirijase al sitio de [GITHUB](https://git-scm.com/) visualize la
 
 ##### IV. Cree una cuenta en GitHub o GitLab
 
+Git es una importante plataforma para alojar repositorios, por lo tanto es muy indispensable utlizarla. Para obtener una cuenta dirijirse al link de insiso anterior e ingresando los datos que se solicita en la pantalla del sitio.
+
+![](Resources/12.PNG)
 
 ##### V. Cree un proyecto vacío con toda la estructura de carpetas que correspondan a un proyecto web con HTML, CSS y JavaScript. 
+
