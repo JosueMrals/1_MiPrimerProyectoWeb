@@ -69,4 +69,4 @@ Git es una importante plataforma para alojar repositorios, por lo tanto es muy i
 
 Para iniciar un proyecto se utlizan los archivos de HTML, CSS y JavaScript los cuales pueden ser creados en VS Code o en el explorador de archivos del ordenador.
 
-![](Resources/13.PNG)
+![](Resources/14.PNG)
