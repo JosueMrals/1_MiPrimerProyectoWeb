@@ -49,9 +49,9 @@ Localize el archivo descargado en el Explorador de Archivo de su equipo y proced
 
 ![](Resources/9.PNG)
 
-Las extenciones en VS Code se descargan e instalan aqui:
+###### Las extenciones en VS Code se descargan e instalan aqui:
 
-![](Resources/10.PNG)
+![](Resources/10.png)
 
 ##### III. Instale y configure Git como control de versiones 
 
