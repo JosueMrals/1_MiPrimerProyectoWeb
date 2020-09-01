@@ -38,7 +38,11 @@ Las extenciones en VS Code se descargan e instalan aqui:
 
 ##### III. Instale y configure Git como control de versiones 
 
+Para instalarlo dirijase al sitio de [GITHUB](https://git-scm.com/) visualize la ultima actualizacion que se encuentre en la pagina.
 
+![](Resources/11.PNG)
 
 ##### IV. Cree una cuenta en GitHub o GitLab
+
+
 ##### V. Cree un proyecto vacío con toda la estructura de carpetas que correspondan a un proyecto web con HTML, CSS y JavaScript. 
